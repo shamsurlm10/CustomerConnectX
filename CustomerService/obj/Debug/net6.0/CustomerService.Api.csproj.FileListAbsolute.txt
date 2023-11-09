@@ -1,0 +1,68 @@
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\appsettings.json
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.exe
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.deps.json
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.runtimeconfig.json
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.dll
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.pdb
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.csproj.AssemblyReference.cache
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.Properties.Resources.resources
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.csproj.GenerateResource.cache
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.AssemblyInfoInputs.cache
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.AssemblyInfo.cs
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets\msbuild.CustomerService.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomerService.Api.props
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomerService.Api.props
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomerService.Api.props
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\scopedcss\bundle\CustomerService.Api.styles.css
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.csproj.CopyComplete
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.dll
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\refint\CustomerService.Api.dll
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.pdb
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.genruntimeconfig.cache
+C:\Users\Shamsurlm10\source\repos\CustomerService\CustomerService\obj\Debug\net6.0\ref\CustomerService.Api.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\appsettings.Development.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\appsettings.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.exe
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.deps.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.runtimeconfig.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\CustomerService.Api.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.csproj.AssemblyReference.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.Properties.Resources.resources
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.csproj.GenerateResource.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.AssemblyInfoInputs.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.AssemblyInfo.cs
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.csproj.CoreCompileInputs.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets\msbuild.CustomerService.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomerService.Api.props
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomerService.Api.props
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomerService.Api.props
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets.build.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\staticwebassets.development.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\scopedcss\bundle\CustomerService.Api.styles.css
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.csproj.CopyComplete
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\refint\CustomerService.Api.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\CustomerService.Api.genruntimeconfig.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService\obj\Debug\net6.0\ref\CustomerService.Api.dll
