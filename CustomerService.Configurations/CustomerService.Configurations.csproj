@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerService.Abstraction\CustomerService.Abstractions.csproj" />
+    <ProjectReference Include="..\CustomerService.BLL\CustomerService.BLL.csproj" />
+    <ProjectReference Include="..\CustomerService.DbContext\CustomerService.ApplicationDbContext.csproj" />
+    <ProjectReference Include="..\CustomerService.Repository\CustomerService.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,42 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.BLL\\CustomerService.BLL.csproj": {}
+    "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.BLL\\CustomerService.BLL.csproj": {}
   },
   "projects": {
-    "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj": {
+    "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj",
+        "projectUniqueName": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj",
         "projectName": "CustomerService.Abstractions",
-        "projectPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\Shamsurlm10\\.nuget\\packages\\",
-        "outputPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Abstraction\\obj\\",
+        "projectPath": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\VisualStudioIDE\\Sahred\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shamsurlm10\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Models\\CustomerService.Models.csproj": {
-                "projectPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Models\\CustomerService.Models.csproj"
+              "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Models\\CustomerService.Models.csproj": {
+                "projectPath": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Models\\CustomerService.Models.csproj"
               }
             }
           }
@@ -66,43 +59,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.BLL\\CustomerService.BLL.csproj": {
+    "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.BLL\\CustomerService.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.BLL\\CustomerService.BLL.csproj",
+        "projectUniqueName": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.BLL\\CustomerService.BLL.csproj",
         "projectName": "CustomerService.BLL",
-        "projectPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.BLL\\CustomerService.BLL.csproj",
-        "packagesPath": "C:\\Users\\Shamsurlm10\\.nuget\\packages\\",
-        "outputPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.BLL\\obj\\",
+        "projectPath": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.BLL\\CustomerService.BLL.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.BLL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\VisualStudioIDE\\Sahred\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shamsurlm10\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj": {
-                "projectPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj"
+              "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj": {
+                "projectPath": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj"
               }
             }
           }
@@ -132,35 +118,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Models\\CustomerService.Models.csproj": {
+    "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Models\\CustomerService.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Models\\CustomerService.Models.csproj",
+        "projectUniqueName": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Models\\CustomerService.Models.csproj",
         "projectName": "CustomerService.Models",
-        "projectPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Models\\CustomerService.Models.csproj",
-        "packagesPath": "C:\\Users\\Shamsurlm10\\.nuget\\packages\\",
-        "outputPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Models\\obj\\",
+        "projectPath": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Models\\CustomerService.Models.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\Office\\AmberIT\\CustomerConnectX\\CustomerService.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\VisualStudioIDE\\Sahred\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shamsurlm10\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -194,7 +173,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

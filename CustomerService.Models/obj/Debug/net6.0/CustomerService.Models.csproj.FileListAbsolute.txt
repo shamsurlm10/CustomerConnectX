@@ -1,0 +1,11 @@
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\bin\Debug\net6.0\CustomerService.Models.deps.json
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\bin\Debug\net6.0\CustomerService.Models.dll
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\bin\Debug\net6.0\CustomerService.Models.pdb
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.AssemblyInfoInputs.cache
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.AssemblyInfo.cs
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.csproj.CoreCompileInputs.cache
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.dll
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\obj\Debug\net6.0\refint\CustomerService.Models.dll
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.pdb
+D:\Office\AmberIT\CustomerConnectX\CustomerService.Models\obj\Debug\net6.0\ref\CustomerService.Models.dll

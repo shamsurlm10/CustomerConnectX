@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CustomerService.Models.ServiceDto;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +14,6 @@ namespace CustomerService.Models.CustomerDto
         public string Description { get; set; }
         public string PhoneNumber { get; set; }
         public string Address { get; set; }
-        public List<Service> Services { get; set; }
+        public List<ServiceListDto> ServicesList { get; set; }
     }
 }

@@ -1,0 +1,17 @@
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\bin\Debug\net6.0\CustomerService.ApplicationDbContext.deps.json
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\bin\Debug\net6.0\CustomerService.ApplicationDbContext.runtimeconfig.json
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\bin\Debug\net6.0\CustomerService.ApplicationDbContext.dll
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\bin\Debug\net6.0\CustomerService.ApplicationDbContext.pdb
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\bin\Debug\net6.0\CustomerService.Models.dll
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\bin\Debug\net6.0\CustomerService.Models.pdb
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.csproj.AssemblyReference.cache
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.AssemblyInfoInputs.cache
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.AssemblyInfo.cs
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.csproj.CoreCompileInputs.cache
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.csproj.CopyComplete
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.dll
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\refint\CustomerService.ApplicationDbContext.dll
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.pdb
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\CustomerService.ApplicationDbContext.genruntimeconfig.cache
+D:\Office\AmberIT\CustomerConnectX\CustomerService.DbContext\obj\Debug\net6.0\ref\CustomerService.ApplicationDbContext.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CustomerService.Abstractions/1.0.0": {
+        "dependencies": {
+          "CustomerService.Models": "1.0.0"
+        },
+        "runtime": {
+          "CustomerService.Abstractions.dll": {}
+        }
+      },
+      "CustomerService.Models/1.0.0": {
+        "runtime": {
+          "CustomerService.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomerService.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerService.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
