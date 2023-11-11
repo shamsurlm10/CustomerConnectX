@@ -1,0 +1,15 @@
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\bin\Debug\net6.0\CustomerService.Abstractions.deps.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\bin\Debug\net6.0\CustomerService.Abstractions.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\bin\Debug\net6.0\CustomerService.Abstractions.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\bin\Debug\net6.0\CustomerService.Models.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\bin\Debug\net6.0\CustomerService.Models.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\CustomerService.Abstractions.csproj.AssemblyReference.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\CustomerService.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\CustomerService.Abstractions.AssemblyInfoInputs.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\CustomerService.Abstractions.AssemblyInfo.cs
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\CustomerService.Abstractions.csproj.CoreCompileInputs.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\CustomerService.Abstractions.csproj.CopyComplete
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\CustomerService.Abstractions.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\refint\CustomerService.Abstractions.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\CustomerService.Abstractions.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Abstraction\obj\Debug\net6.0\ref\CustomerService.Abstractions.dll

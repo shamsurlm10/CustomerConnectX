@@ -10,7 +10,7 @@ namespace CustomerService.Configurations
         public MappingProfile() 
         {
             #region Customer
-            CreateMap<Customer, CustomerListDto>().ForMember(dest => dest.ServicesList, opt => opt.MapFrom(src => src.Services));
+            CreateMap<Customer, CustomerListDto>();
             CreateMap<CustomerAddDto, Customer>();
             CreateMap<CustomerDeleteOrUpdateDto, Customer>();
             #endregion

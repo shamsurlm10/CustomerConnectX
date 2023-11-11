@@ -1,0 +1,11 @@
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\bin\Debug\net6.0\CustomerService.Models.deps.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\bin\Debug\net6.0\CustomerService.Models.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\bin\Debug\net6.0\CustomerService.Models.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.AssemblyInfoInputs.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.AssemblyInfo.cs
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.csproj.CoreCompileInputs.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\obj\Debug\net6.0\refint\CustomerService.Models.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\obj\Debug\net6.0\CustomerService.Models.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.Models\obj\Debug\net6.0\ref\CustomerService.Models.dll

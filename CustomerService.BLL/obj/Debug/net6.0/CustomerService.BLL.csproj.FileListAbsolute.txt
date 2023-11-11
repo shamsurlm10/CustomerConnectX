@@ -1,0 +1,17 @@
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\bin\Debug\net6.0\CustomerService.BLL.deps.json
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\bin\Debug\net6.0\CustomerService.BLL.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\bin\Debug\net6.0\CustomerService.BLL.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\bin\Debug\net6.0\CustomerService.Abstractions.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\bin\Debug\net6.0\CustomerService.Models.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\bin\Debug\net6.0\CustomerService.Abstractions.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\bin\Debug\net6.0\CustomerService.Models.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\CustomerService.BLL.csproj.AssemblyReference.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\CustomerService.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\CustomerService.BLL.AssemblyInfoInputs.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\CustomerService.BLL.AssemblyInfo.cs
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\CustomerService.BLL.csproj.CoreCompileInputs.cache
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\CustomerService.BLL.csproj.CopyComplete
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\CustomerService.BLL.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\refint\CustomerService.BLL.dll
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\CustomerService.BLL.pdb
+F:\Shamsur\AmberIT Learning\R&D Project\CustomerService\CustomerService.BLL\obj\Debug\net6.0\ref\CustomerService.BLL.dll
