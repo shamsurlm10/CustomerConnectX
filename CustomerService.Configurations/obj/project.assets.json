@@ -1036,6 +1036,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "CustomerService.Abstractions": "1.0.0",
+          "CustomerService.ApplicationDbContext": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.13"
         },
         "compile": {

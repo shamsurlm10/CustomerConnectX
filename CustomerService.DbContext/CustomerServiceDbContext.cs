@@ -16,6 +16,7 @@ namespace CustomerService.ApplicationDbContext
             #region CustomerService
             modelBuilder.Entity<Customer>().HasKey(pk => pk.CustomerId);
             modelBuilder.Entity<Service>().HasKey(pk => pk.ServiceId);
+            //modelBuilder.Entity<Service>().HasOne(s=> s.Customer).WithMany(s => s.Services).HasForeignKey(s => s.CustomerId);
             #endregion
         }
     } 
