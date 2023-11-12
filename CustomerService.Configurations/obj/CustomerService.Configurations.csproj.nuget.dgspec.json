@@ -404,6 +404,9 @@
             "projectReferences": {
               "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj": {
                 "projectPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.Abstraction\\CustomerService.Abstractions.csproj"
+              },
+              "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.DbContext\\CustomerService.ApplicationDbContext.csproj": {
+                "projectPath": "F:\\Shamsur\\AmberIT Learning\\R&D Project\\CustomerService\\CustomerService.DbContext\\CustomerService.ApplicationDbContext.csproj"
               }
             }
           }

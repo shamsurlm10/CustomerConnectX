@@ -22,12 +22,12 @@ namespace CustomerService.Repositories.Base
             return await _db.SaveChangesAsync()>0;
         }
 
-        public async Task<T> FindByIdAsync(int Id)
+        public virtual async Task<T> FindByIdAsync(int Id)
         {
             return await _db.Set<T>().FindAsync(Id);
         }
 
-        public async Task<IReadOnlyList<T>> GetAllAsync()
+        public virtual async Task<IReadOnlyList<T>> GetAllAsync()
         {
             return await _db.Set<T>().AsNoTracking().ToListAsync();
         }

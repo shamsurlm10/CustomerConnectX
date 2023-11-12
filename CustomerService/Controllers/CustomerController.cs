@@ -3,11 +3,11 @@ using CustomerService.Abstractions.BLL;
 using CustomerService.Api.Controllers.Base;
 using CustomerService.Models;
 using CustomerService.Models.CustomerDto;
-using CustomerService.Models.ServiceDto;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CustomerService.Api.Controllers
 {
+
     public class CustomerController : BaseApiController
     {
         private readonly ICustomerManager _customerManager;
@@ -19,35 +19,36 @@ namespace CustomerService.Api.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet]
+        [HttpGet("all")]
         public async Task<ActionResult<List<CustomerListDto>>> GetAllCustomer()
         {
             var Customers = await _customerManager.GetAllAsync();
             var mapper = _mapper.Map<List<CustomerListDto>>(Customers);
             return Ok(mapper);
         }
-        [HttpGet("{CustomerId}")]
-        public async Task<ActionResult<CustomerListDto>> GetCustomerById(int CustomerId)
+
+        [HttpGet("{by-customer-id}/services")]
+        public async Task<ActionResult<CustomerListWithServiceDto>> GetCustomerById([FromQuery]int CustomerId)
         {
             var Customer = await _customerManager.FindByIdAsync(CustomerId);
-            var mapper = _mapper.Map<CustomerListDto>(Customer);
+            var mapper = _mapper.Map<CustomerListWithServiceDto>(Customer);
             return Ok(mapper);
         }
-        [HttpPost]
+        [HttpPost("create")]
         public async Task<ActionResult> AddCustomer([FromBody] CustomerAddDto customer)
         {
             var mapper = _mapper.Map<Customer>(customer);
             var Customer = await _customerManager.AddAsync(mapper);
             return Ok(Customer);
         }
-        [HttpPut]
+        [HttpPut("update")]
         public async Task<ActionResult> UpdateCustomer([FromBody] CustomerDeleteOrUpdateDto customer)
         {
             var mapper = _mapper.Map<Customer>(customer);
             var UpdatingCustomer = await _customerManager.UpdateAsync(mapper);
             return Ok(UpdatingCustomer);
         }
-        [HttpDelete]
+        [HttpDelete("remove")]
         public async Task<IActionResult> DeleteCustomer([FromBody] CustomerDeleteOrUpdateDto customer)
         {
             var mapper = _mapper.Map<Customer>(customer);

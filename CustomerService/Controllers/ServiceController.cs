@@ -1,9 +1,7 @@
 ﻿using AutoMapper;
 using CustomerService.Abstractions.BLL;
 using CustomerService.Api.Controllers.Base;
-using CustomerService.BLL;
 using CustomerService.Models;
-using CustomerService.Models.CustomerDto;
 using CustomerService.Models.ServiceDto;
 using Microsoft.AspNetCore.Mvc;
 
@@ -20,35 +18,35 @@ namespace CustomerService.Api.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet]
+        [HttpGet("all")]
         public async Task<ActionResult<ServiceListDto>> GetAllServices()
         {
             var Services = await _serviceManager.GetAllAsync();
             var mapper = _mapper.Map<List<ServiceListDto>>(Services);
             return Ok(mapper);
         }
-        [HttpGet("{ServiceId}")]
-        public async Task<ActionResult<ServiceListDto>> GetServiceById(int ServiceId)
+        [HttpGet("by-service-id")]
+        public async Task<ActionResult<ServiceListDto>> GetServiceById([FromQuery]int ServiceId)
         {
             var Service = await _serviceManager.FindByIdAsync(ServiceId);
             var mapper = _mapper.Map<ServiceListDto>(Service);
             return Ok(mapper);
         }
-        [HttpPost]
+        [HttpPost("create")]
         public async Task<ActionResult> AddService([FromBody] ServiceAddDto service)
         {
             var mapper = _mapper.Map<Service>(service);
             var Service = await _serviceManager.AddAsync(mapper);
             return Ok(Service);
         }
-        [HttpPut]
+        [HttpPut("update")]
         public async Task<ActionResult> UpdateService([FromBody] ServiceDeleteOrUpdateDto service)
         {
             var mapper = _mapper.Map<Service>(service);
             var UpdatedService = await _serviceManager.UpdateAsync(mapper);
             return Ok(UpdatedService);
         }
-        [HttpDelete]
+        [HttpDelete("remove")]
         public async Task<IActionResult> DeleteService([FromBody] ServiceDeleteOrUpdateDto service)
         {
             var mapper = _mapper.Map<Service>(service);

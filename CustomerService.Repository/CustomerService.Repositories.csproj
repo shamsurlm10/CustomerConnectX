@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CustomerService.Abstraction\CustomerService.Abstractions.csproj" />
+    <ProjectReference Include="..\CustomerService.DbContext\CustomerService.ApplicationDbContext.csproj" />
   </ItemGroup>
 
 </Project>

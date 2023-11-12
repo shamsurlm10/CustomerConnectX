@@ -11,6 +11,7 @@ namespace CustomerService.Configurations
         {
             #region Customer
             CreateMap<Customer, CustomerListDto>();
+            CreateMap<Customer, CustomerListWithServiceDto>().ForMember(dest => dest.ServicesForCustomer, o => o.MapFrom((src => src.Services)));
             CreateMap<CustomerAddDto, Customer>();
             CreateMap<CustomerDeleteOrUpdateDto, Customer>();
             #endregion
